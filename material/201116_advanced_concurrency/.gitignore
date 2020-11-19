@@ -1,0 +1,10 @@
+*
+!*.md
+!*.md
+!*.c
+!*.h
+!*.input
+!.gitignore
+!*.pdf
+!Makefile
+!README

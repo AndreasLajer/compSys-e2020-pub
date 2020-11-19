@@ -94,31 +94,34 @@ NB! You are only allowed to arrive 15 minutes before these times.
 
 ### Teams
 
-* Hold 1: Alexander
-  * Monday: NBB 01.3.I.164
-  * Wednesday: HCØ A101
+* Hold 1: Jens
+  * Blok 2:
+    * Monday: NBB 01.3.H.142 (flytter fra NBB 01.3.I.164)
+    * Wednesday: HCØ A110
 * Hold 2: Bjarke
-  * Monday: NBB 01.3.I.080
-  * Wednesday: HCØ A102
+  * Blok 2:
+    * Monday: NBB 01.3.I.080
+    * Wednesday: HCØ A104 (flytter fra A105)
 * Hold 3: Jens
-  * Monday: NBB 01.3.H.142
-  * Wednesday: HCØ A104?
+  * Blok 2:
+    * Monday: NBB 01.3.H.142
+    * Wednesday: HCØ A110 (flytter fra A104)
 * Hold 4: Jonas
-  * Monday: NBB 01.1.I.156
-  * Wednesday: HCØ A105
-* Hold 5: Alexander, Kristian (online)
-  * Monday: NBB 01.3.I.164
-  * Wednesday: HCØ A101
-<!--   * Monday: NBB 01.2.H.142
-  * Wednesday: HCØ A111
- -->
-* Hold 6: Walter
-  * Monday: Biocenter 4-0-13
-  * Wednesday: HCØ A112
-* Hold 7: Magnus
-  * Monday: Biocenter 4-0-10
-  * Wednesday: DIKU 1-0-37
-
+  * Blok 2:
+    * Monday:  NBB 01.2.I.158
+    * Wednesday: HCØ A111
+* Hold 5: Jens
+  * Blok 2:
+    * Monday: NBB 01.3.H.142 (flytter fra NBB 01.3.I.164)
+    * Wednesday: HCØ A110
+* Hold 6: Alexander
+  * Blok 2:
+    * Monday: HCØ A112
+    * Wednesday: HCØ A112
+* Hold 7: Alexander
+  * Blok 2:
+    * Monday: HCØ A112 (flytter fra Biocenter 4-0-10)
+    * Wednesday: HCØ A112
 
 ### Room details
 Map of Nørre Campus:
@@ -137,31 +140,20 @@ https://nexs.ku.dk/kontakt/findvej/kort_norre-campus/
    * Week 45, 15:15-17:00
 
 ### Rooms
-#### Week 36-44
+
+#### Blok 2
 Wednesday
- * HCØ A101 - Hold 1 og Hold 5
- * HCØ A102 - Hold 2 og Hold 3
+ * HCØ A110 - Hold 1, Hold 3 og Hold 5
+ * HCØ A104 - Hold 2
  * HCØ A111 - Hold 4
  * HCØ A112 - Hold 6 og Hold 7
 
 Friday
- * HCØ A102 - Hold 1 og Hold 5
- * HCØ A103 - Hold 2 og Hold 3
+ * HCØ A102 - Hold 1, Hold 3 og Hold 5
+ * HCØ A106 - Hold 2
  * HCØ A104 - Hold 4
  * HCØ A105 - Hold 6 og Hold 7
 
-#### Week 45
-Wednesday
- * HCØ A101 - Hold 1 og Hold 5
- * HCØ A102 - Hold 2 og Hold 3
- * HCØ A111 - Hold 4
- * HCØ A112 - Hold 6 og Hold 7
-
-Friday 15:15-17:00
- * HCØ A102 - Hold 1 og Hold 5
- * HCØ A106 - Hold 2 og Hold 3
- * HCØ A101 - Hold 4
- * HCØ A105 - Hold 6 og Hold 7
 
 <!-- Wednesday 15-17
 * Main room
